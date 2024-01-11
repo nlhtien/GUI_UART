@@ -1,2 +1,6 @@
 # GUI_UART
 GUI CONNECT UART 2 KÊNH ĐỘC LẬP
+
+CHƯƠNG TRÌNH THỰC HIỆN CONNECT UART ĐỒNG THỜI THỰC HIỆN VẼ CÁC XUNG VUÔNG , TAM GIÁC , SINE ĐỂ CHIA XUNG TRƯỚC KHI GỬI. BÊN CẠNH ĐÓ CÓ THỂ TẠO 1 GUI SONG SONG CHẠY ĐỘC LẬP 2 GUI
+![GUI2](https://github.com/nlhtien/GUI_UART/assets/156217898/738e13dd-d8bf-443d-ae31-ffca9aae3d24)
+
